@@ -1,1 +1,2 @@
-# Segmentacao-de-clientes
+# Segmentação de clientes
+Projeto que tem como objetivo segmentar clientes clientes de uma carteira de cartão de crédito. Essa segmentação tem como finalidade analisar os clientes, podendo ser utilizado tanto para campanhas de marketing, como também para entender o comportamento dos clientes, qual parcela dos clientes que menos pagam atrasado, quais e quantos pagam em dia e quais decisões podem ser tomadas com base nesses dados.
